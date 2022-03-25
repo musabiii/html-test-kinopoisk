@@ -1,0 +1,181 @@
+/* cloud3 copy 2 */
+.cloud3L_16 {
+  position: absolute;
+  width: 321.49px;
+  height: 236.57px;
+  left: 604.95px;
+  top: 5px;
+  background: url("../img/cloud3L.svg");
+  background-size: contain;
+  -webkit-transform: rotate(-150deg);
+          transform: rotate(-150deg);
+}
+
+/* cloud3 copy 2 */
+.cloud3L_15 {
+  position: absolute;
+  width: 466.49px;
+  height: 343.57px;
+  left: 1000.35px;
+  top: 50.88px;
+  background: url("../img/cloud3L.svg");
+  background-size: contain;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+
+/* cloud3 copy 2 */
+.cloud3L_14 {
+  position: absolute;
+  width: 466.49px;
+  height: 343.57px;
+  left: 600.55px;
+  top: 300.44px;
+  background: url("../img/cloud3L.svg");
+  background-size: contain;
+}
+
+/* cloud3 copy 2 */
+.cloud3L_13 {
+  position: absolute;
+  width: 527.49px;
+  height: 387.57px;
+  left: 380px;
+  top: 200.95px;
+  background: url("../img/cloud3L.svg");
+  background-size: contain;
+}
+
+/* cloud3 copy 2 */
+.cloud3L_12 {
+  position: absolute;
+  width: 527.49px;
+  height: 387.57px;
+  left: 620px;
+  top: 450.95px;
+  background: url("../img/cloud3L.svg");
+  background-size: contain;
+  -webkit-transform: matrix(0.47, 0.88, 0.88, -0.47, 0, 0);
+          transform: matrix(0.47, 0.88, 0.88, -0.47, 0, 0);
+}
+
+/* cloud1 */
+.cloud1_11 {
+  position: absolute;
+  width: 446.08px;
+  height: 212.51px;
+  left: 1200px;
+  top: 491px;
+  background: url("../img/cloud1.svg");
+  background-size: contain;
+}
+
+/* cloud1 */
+.cloud1_10 {
+  position: absolute;
+  width: 561.08px;
+  height: 267.51px;
+  left: 850px;
+  top: 452px;
+  background: url("../img/cloud1.svg");
+  background-size: contain;
+}
+
+/* cloud1 */
+/* cloud1 */
+.cloud1_8 {
+  position: absolute;
+  width: 561.08px;
+  height: 267.51px;
+  left: 770px;
+  top: 387px;
+  background: url("../img/cloud1.svg");
+  background-size: contain;
+}
+
+/* cloud1 */
+.cloud1_7 {
+  position: absolute;
+  width: 838.08px;
+  height: 399.51px;
+  left: 870px;
+  top: 305px;
+  background: url("../img/cloud1.svg");
+  background-size: contain;
+}
+
+/* cloud1 */
+.cloud1_6 {
+  position: absolute;
+  width: 838.08px;
+  height: 399.51px;
+  left: 250.02px;
+  top: 305.17px;
+  background: url("../img/cloud1.svg");
+  background-size: contain;
+}
+
+/* cloud1 */
+.cloud1_5 {
+  position: absolute;
+  width: 838.08px;
+  height: 399.51px;
+  left: -88px;
+  top: 300.88px;
+  background: url("../img/cloud1.svg");
+  -webkit-transform: rotate(-24deg);
+          transform: rotate(-24deg);
+  background-size: contain;
+}
+
+/* cloud3 */
+.cloud3_4 {
+  position: absolute;
+  width: 262px;
+  height: 192px;
+  left: 500.57px;
+  top: 320.18px;
+  background: url("../img/cloud3.svg");
+  background-size: contain;
+}
+
+/* cloud2 */
+.cloud2_3 {
+  position: absolute;
+  width: 561px;
+  height: 406px;
+  left: 0.03px;
+  top: 300px;
+  background: url("../img/cloud2.png");
+  background-size: contain;
+  -webkit-transform: rotate(150deg);
+          transform: rotate(150deg);
+}
+
+/* cloud2 */
+.cloud2_2 {
+  position: absolute;
+  width: 561px;
+  height: 406px;
+  left: 231.83px;
+  top: -6.61px;
+  background: url("../img/cloud2.png");
+  background-size: cover;
+  z-index: 0;
+}
+
+.cloud_img {
+  position: absolute;
+  width: 1000px;
+  height: 1000px;
+  left: 379.03px;
+  top: 230px;
+  -o-object-fit: fill;
+     object-fit: fill;
+}
+
+.cloud {
+  z-index: 0;
+  position: absolute;
+}
+/*# sourceMappingURL=cloud.css.map */
